@@ -1,0 +1,15 @@
+@media(min-width: 320px) and (max-width: 575.98px){
+    .clock {
+        font-size: 14px;
+    }
+    .stopwatch
+    {
+        width: 100%;
+    }
+    button:not(:last-child){
+        margin-right: 0px;
+    }
+    button{
+        margin-left: 10px;
+    }
+}

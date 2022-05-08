@@ -35,3 +35,9 @@ function time(){
 }
 
 setInterval(time,1000);
+
+
+
+
+// ...................for stopwatch
+
